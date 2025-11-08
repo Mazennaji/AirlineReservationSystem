@@ -34,6 +34,8 @@ The system supports flight registration, passenger data handling, and automated 
 
 ---
 ## UML Diagram
-<img width="1852" height="3924" alt="deepseek_mermaid_20251108_36bed7" src="https://github.com/user-attachments/assets/14bc86c3-1d67-4dd8-af26-5bd6213f9e01" />
+<img width="1139" height="760" alt="Screenshot 2025-11-08 111514" src="https://github.com/user-attachments/assets/c7f38eb3-72ec-45ad-b337-8a6f6c9aaa49" />
+
+
 
 Built with ❤️ by Mazen Naji using Java OOP
