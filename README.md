@@ -33,4 +33,7 @@ The system supports flight registration, passenger data handling, and automated 
 | `bookings.txt` | Automatically generated file used for **storing booking records**. |
 
 ---
+## UML Diagram
+<img width="1852" height="3924" alt="deepseek_mermaid_20251108_36bed7" src="https://github.com/user-attachments/assets/14bc86c3-1d67-4dd8-af26-5bd6213f9e01" />
+
 Built with ❤️ by Mazen Naji using Java OOP
