@@ -1,6 +1,7 @@
 # ✈️ Airline Reservation System (Java)
 
-A console-based airline booking system built in **Java** using **Object-Oriented Programming (OOP)** principles.
+A simple **Java-based Airline Reservation System** that allows users to manage flights, passengers, and bookings efficiently.  
+The system supports flight registration, passenger data handling, and automated booking management through file storage.
 
 ## 🚀 Features
 
