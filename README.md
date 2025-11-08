@@ -34,8 +34,7 @@ The system supports flight registration, passenger data handling, and automated 
 
 ---
 ## UML Diagram
-<img width="1138" height="731" alt="image" src="https://github.com/user-attachments/assets/2a6adc21-a3e4-4d76-9361-a7edcbafef4f" />
-
+<img width="1141" height="736" alt="image" src="https://github.com/user-attachments/assets/f7d9a231-f8ab-4af2-a77a-1bbe3b2c00bf" />
 
 
 
