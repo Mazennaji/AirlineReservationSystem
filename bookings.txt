@@ -1,0 +1,4 @@
+John Smith (ID: P001) booked flight FL202 to London
+Michael Smith (ID: P002) booked flight FL101 to Paris
+Lamar Johnson (ID: P001) booked flight FL303 to New York
+Emile Nehme (ID: P002) booked flight FL303 to New York
